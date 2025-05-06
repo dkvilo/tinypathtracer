@@ -12,7 +12,7 @@ Camera Controls:
 - B - Visualize BVH nodes (Mesh and Sphere) (control division by + and -)
 - T - Visualize Wireframe (Mesh)
 
-![Screenshot](/Screenshots/0s.png)
-![Screenshot](/Screenshots/1s.png)
-![Screenshot](/Screenshots/2s.png)
-![Screenshot](/Screenshots/3s.png)
+![Screenshot](/Screenshots/s0.png)
+![Screenshot](/Screenshots/s1.png)
+![Screenshot](/Screenshots/s2.png)
+![Screenshot](/Screenshots/s3.png)
